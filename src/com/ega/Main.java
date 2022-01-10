@@ -3,11 +3,7 @@ package com.ega;
 public class Main {
 
     public static void main(String[] args) {
-//String[] stars = {"**********"};
-//
-//        for (String a : stars){
-//            System.out.println(a);
-//        }
+
         //1.uzd 1. variants
         for (int i = 0; i <= 4; i++) {
 
@@ -24,6 +20,7 @@ public class Main {
             System.out.println();
         }
         System.out.println();
+
         //2.uzd
         for (int i = 1; i <= 5; i++) {
             for (int a = 1; a <= i; a++) {
